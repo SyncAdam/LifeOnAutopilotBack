@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vK9AtRDd5BX9OZPy1cGf0rU4HaaG7mkMpSqeUqtTLjQ=",
+  "Source": "LifeOnAutopilotServer",
+  "BasePath": "_content/LifeOnAutopilotServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
