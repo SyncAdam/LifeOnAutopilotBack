@@ -1,5 +1,8 @@
 [Bb]in/
-.[Bb]in/
+[Bb]in/Debug/
+[Bb]in/Debug/net8.0/
 [Oo]bj/
+[Oo]bj/Debug/
+
 
 .vscode
