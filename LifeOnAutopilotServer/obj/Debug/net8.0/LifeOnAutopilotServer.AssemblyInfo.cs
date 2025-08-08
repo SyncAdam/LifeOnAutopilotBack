@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LifeOnAutopilotServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50080eecb705d8ade64686e7a04018d7386cea97")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1034625f449a224bceb17e839d6b7315a718d0ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("LifeOnAutopilotServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LifeOnAutopilotServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
