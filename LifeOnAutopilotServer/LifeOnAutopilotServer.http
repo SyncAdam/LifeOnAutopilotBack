@@ -1,6 +1,6 @@
 @LifeOnAutopilotServer_HostAddress = http://localhost:5046
 
-GET {{LifeOnAutopilotServer_HostAddress}}/weatherforecast/
+GET {{LifeOnAutopilotServer_HostAddress}}/
 Accept: application/json
 
 ###
